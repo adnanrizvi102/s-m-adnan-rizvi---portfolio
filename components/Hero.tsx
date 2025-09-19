@@ -11,7 +11,7 @@ const Hero: React.FC = () => {
         <div className="mb-8 flex justify-center">
           <div className="relative">
             <img 
-              src="/images/profile.jpg" 
+              src="images/profile.jpg" 
               alt="S M Adnan Rizvi" 
               className="w-40 h-40 md:w-48 md:h-48 rounded-full object-cover border-4 border-cyan-400/30 shadow-2xl shadow-cyan-400/20"
             />
